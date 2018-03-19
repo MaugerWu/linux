@@ -16,3 +16,22 @@ See Documentation/00-INDEX for a list of what is contained in each file.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+Linux内核
+============
+
+该文件已移至Documentation / admin-guide / README.rst
+
+请注意，有几个内核开发者和用户指南。
+这些指南可以以多种格式呈现，如HTML和PDF。
+
+为了构建文档，使用``make htmldocs``或
+``make pdfdocs``。
+
+Documentation /子目录中有各种文本文件，
+其中几个使用重组文本标记符号。
+有关每个文件中包含的内容的列表，请参阅Documentation / 00-INDEX。
+
+请阅读Documentation / process / changes.rst文件，因为它包含
+有关构建和运行内核的要求，以及有关的信息
+升级内核可能导致的问题。
